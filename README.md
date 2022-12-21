@@ -1,2 +1,2 @@
-# Latihan-GitHub
-Mari github gaes
+# Latihan GitHub
+Mari berlatih github gaes
